@@ -21,7 +21,7 @@ Trata-se de um back-end para cadastro de usuários, com os seguintes recursos:
 
 ## Linguagens e recursos:
 
-- Linguagem: `Javascript`
+- Linguagens: `Javascript` e `JSON`
 - Runtime: `Node.js`
 - Framework: `Express`
 - Query Builder: `Next.js`
